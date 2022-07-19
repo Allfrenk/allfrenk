@@ -1,4 +1,4 @@
-Hi 👋 My name is Alessandro Catania
+Hi 👋 My name is Alessandro
 ===================================
 
 Web Developer Junior
