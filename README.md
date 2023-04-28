@@ -6,7 +6,7 @@ Web Developer Junior
 
 * 🌍  I'm based in Milan, Italy
 * ✉️  You can contact me at [ale.cata.it@gmail.com](mailto:ale.cata.it@gmail.com)
-* 🧠  I'm learning Angular and more
+* 🧠  I'm learning Next.js and more
 * ⚡  I love Minimal Futurism design
 
 ### Skills
